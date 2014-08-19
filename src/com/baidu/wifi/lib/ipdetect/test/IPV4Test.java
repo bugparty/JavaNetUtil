@@ -1,4 +1,6 @@
-import ip.IPV4;
+package com.baidu.wifi.lib.ipdetect.test;
+
+import com.baidu.wifi.lib.ipdetect.ip.IPV4;
 import org.junit.Test;
 
 /**

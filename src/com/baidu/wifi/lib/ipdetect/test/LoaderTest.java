@@ -1,4 +1,6 @@
-import netrule.Loader;
+package com.baidu.wifi.lib.ipdetect.test;
+
+import com.baidu.wifi.lib.ipdetect.netrule.Loader;
 import org.junit.Test;
 
 import java.util.ArrayList;

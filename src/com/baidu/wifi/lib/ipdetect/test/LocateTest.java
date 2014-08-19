@@ -1,8 +1,8 @@
-import model.DnsInfo;
-import model.IPInfo;
-import model.ISP;
-import netrule.Locate;
-import netrule.WhiteList;
+package com.baidu.wifi.lib.ipdetect.test;
+
+import com.baidu.wifi.lib.ipdetect.model.IPInfo;
+import com.baidu.wifi.lib.ipdetect.ip.ISP;
+import com.baidu.wifi.lib.ipdetect.netrule.Locate;
 import org.junit.Test;
 
 /**

@@ -1,4 +1,4 @@
-package ip;
+package com.baidu.wifi.lib.ipdetect.ip;
 
 import org.apache.commons.lang3.StringUtils;
 
@@ -52,7 +52,7 @@ public class IPV4 {
 
     public IPV4(String ipAddress) {
         if(!ipAddress.contains("."))
-            throw new IllegalArgumentException("ip address"+ipAddress+"Does not contians a '.'");
+            throw new IllegalArgumentException("com.baidu.wifi.lib.ipdetect.ip address"+ipAddress+"Does not contians a '.'");
 
         String[] ipParts = StringUtils.split(ipAddress, '.');
 

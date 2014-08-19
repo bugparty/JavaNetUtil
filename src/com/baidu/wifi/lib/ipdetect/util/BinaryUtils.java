@@ -1,4 +1,4 @@
-package util;
+package com.baidu.wifi.lib.ipdetect.util;
 
 /**
  * Created by hanbowen on 2014/8/18.

@@ -1,4 +1,4 @@
-package model;
+package com.baidu.wifi.lib.ipdetect.model;
 
 /**
  * Created by hanbowen on 2014/8/19.

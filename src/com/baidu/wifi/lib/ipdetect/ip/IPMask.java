@@ -1,8 +1,8 @@
-package ip;
+package com.baidu.wifi.lib.ipdetect.ip;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import util.BinaryUtils;
+import com.baidu.wifi.lib.ipdetect.util.BinaryUtils;
 /**
  * Created by hanbowen on 2014/8/18.
  */
