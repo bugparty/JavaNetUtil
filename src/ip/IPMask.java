@@ -1,6 +1,8 @@
+package ip;
+
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
+import util.BinaryUtils;
 /**
  * Created by hanbowen on 2014/8/18.
  */
